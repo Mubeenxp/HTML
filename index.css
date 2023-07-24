@@ -1,14 +1,17 @@
  div{
     border: 1px solid lightgrey;
-    width: 100%;
-    margin: 10px auto;
+   max-width: 25%;
+    margin-top: 25px;
+    margin-right: 25%;
+    margin-left: 25%;
+    
     background-color: #25d366;
    
 } 
 table {
-    border: 1px solid skyblue;
+    /* border: 1px solid skyblue; */
     text-align: center;
-    margin: 10px auto;
+    margin: 25px auto;
 }
 td {
     border: 1px solid white;
@@ -38,4 +41,11 @@ td:hover{
 a:hover {
     color: black;
     text-shadow: 5px;
+}
+#div2{
+    border: 1px solid black;
+    width: 50%;
+    height: 25%;
+    display: inline;
+    float: left;
 }
