@@ -62,6 +62,7 @@ footer{
     border: 1px solid lightblue;
     margin: auto;
     margin-top: 5px;
+    text-align: center;
 }
 
 .box1{
@@ -71,6 +72,9 @@ footer{
     margin-left: 15%;
     margin-top: 5px;
     float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -81,6 +85,9 @@ footer{
     margin-top: 5px;
     float: left;
     margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  
 }
 
@@ -91,6 +98,9 @@ footer{
     margin-left: 5px;
     margin-top: 5px;
     float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    
 }
 
@@ -102,6 +112,7 @@ footer{
     border: 1px solid lightblue;
     margin: auto;
     margin-top: 310px;
+    text-align: center;
 
 }
 
