@@ -2,14 +2,14 @@
 #main{
     border: 1px solid black;
     background-color: yellow;
-    width: 98%; 
+    width: 70%; 
     overflow: hidden;
     
 }
  header{
 
     margin: 5px;
-    width: 98.5%;
+    width: 100%;
     height: 50px;
     text-align: center;
     border: 1px solid black;
@@ -55,66 +55,58 @@ footer{
 
 
 /* Assingmint 3-2 */
- 
-div{
-    width: 98%;
-    height: 100%;
-    /* border: 1px solid black; */
+*{
     overflow: hidden;
 } 
-
-.as3 {
-    background-color: azure;
-    width: 98%;
-    
-    
+.div50 {
+    max-width: 70%;
+    height: 70%;
+    border: 1px solid lightblue;
+    margin: auto;
+    margin-top: 5px;
 }
 
-
-.div5{
-    border: 1px solid black;
-    width: 98%;
-    text-align: center;
-    margin: 5px;
-
+.box1{
+    width: 20%;
+    height: 300px;
+    border: 1px solid lightblue;
+    margin-left: 15%;
+    margin-top: 5px;
+    float: left;
 
 }
-.div6{
-    border: 1px solid black;
+
+.box2{
     width: 29%;
-    height: 250px;
-    text-align: center;
-    margin: 5px;
-    display: inline-block;
-    
-}
-.div7{
-    border: 1px solid black;
-    width: 38%;
-    height: 250px;
-    text-align: center;
-    margin: 5px;
-    display: inline-block;
-    
-}
-.div8{
-    border: 1px solid black;
-    width: 29%;
-    height: 250px;
-    text-align: center;
-    margin: 5px;
-    display: inline-block;
-    
+    height: 300px;
+    border: 1px solid lightblue;
+    margin-top: 5px;
+    float: left;
+    margin-left: 5px;
+ 
 }
 
-
-footer{
-    border: 1px solid black;
-    background-color: white;
+.box3{
+    width: 20%;
+    height: 300px;
+    border: 1px solid lightblue;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
    
-    text-align: center;
-    width: 98%;
 }
+
+
+
+.box4{
+    width: 70%;
+    height: 50px;
+    border: 1px solid lightblue;
+    margin: auto;
+    margin-top: 310px;
+
+}
+
 
 
 /* Assingmint 3-3 */
