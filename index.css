@@ -49,3 +49,7 @@ a:hover {
     display: inline;
     float: left;
 }
+.main {
+    display: flex;
+    flex-direction: column;
+}
