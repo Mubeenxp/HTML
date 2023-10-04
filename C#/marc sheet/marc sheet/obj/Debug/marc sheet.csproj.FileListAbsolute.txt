@@ -1,0 +1,7 @@
+D:\C#\marc sheet\marc sheet\bin\Debug\marc sheet.exe.config
+D:\C#\marc sheet\marc sheet\bin\Debug\marc sheet.exe
+D:\C#\marc sheet\marc sheet\bin\Debug\marc sheet.pdb
+D:\C#\marc sheet\marc sheet\obj\Debug\marc sheet.csproj.AssemblyReference.cache
+D:\C#\marc sheet\marc sheet\obj\Debug\marc sheet.csproj.CoreCompileInputs.cache
+D:\C#\marc sheet\marc sheet\obj\Debug\marc sheet.exe
+D:\C#\marc sheet\marc sheet\obj\Debug\marc sheet.pdb
