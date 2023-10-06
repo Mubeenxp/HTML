@@ -9,7 +9,7 @@
    
     <script>
         
-    //   *******************
+    //   ******************
     // 2. Write a JavaScript program that accept two integers and
     //     display the larger. Also show if the two integers are equal.
 
@@ -113,7 +113,7 @@
 
 
 
-                    /*****************************************************
+                    /****************************************************
                     1. Write a program that takes a character (number or string)
                         in a variable & checks whether the given input is a
                         number, uppercase letter or lower case letter. (Hint: ASCII
@@ -124,9 +124,12 @@
 
                     var ars = prompt("in put uppercase lowercase and numer")
 
-                    
+                        if (typeof(ars)=="number") {
+                            document.write("Number")
 
-                    if (ars.charCodeAt(0) >=65 && ars.charCodeAt(0) <=90) {
+                        } 
+
+                    else if (ars.charCodeAt(0) >=65 && ars.charCodeAt(0) <=90) {
                         document.write("Uppercase")
                     }
                     else if (ars.charCodeAt(0) >= 97 && ars.charCodeAt(0)<=122) {
