@@ -1,0 +1,15 @@
+
+.card1{
+    width: 300vh;
+    height: 100px;
+    margin-left: 200px;
+
+}
+.bg25{
+   background-image: url(./Image/abc.jpg);
+   background-repeat: no-repeat;
+   height: 60vh;
+  
+
+    border-radius: 5px;
+}
